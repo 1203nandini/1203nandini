@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Github stats:
 
 ![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=1203nandini&show_icons=true&theme=radical)
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Github trophies:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=1203nandini&theme=radical&margin-w=5&no-frame=true)
 
