@@ -1,25 +1,17 @@
-# 👋 Hello, I'm Nandini Kumari!
-
+# About Me:
+👩‍💻 My name is Nandini Kumari
 🎓 Final-year B.Tech (CSE) Student | 💻 Cybersecurity & Full Stack Enthusiast  
 🔍 Exploring Threat Monitoring, Secure Coding, and Compliance Automation  
 
----
-
-## 💡 About Me
-
-As a B.Tech CSE student, I love breaking down complex tech problems into simple code — building small projects in my free time keeps me curious and constantly learning.
-
-- 🌱 Currently learning:  
-  `Cybersecurity Operations`, `SIEM Dashboards`, `Python Scripting`, `Network Security`, `Secure Coding`, and more!
-- 🎯 Aspiring to become a person who can automate defenses and build smart tools
-- ⚙️ I enjoy working on compliance dashboards, automation scripts, and secure systems
-- 🧠 Passionate about continuous learning and exploring new security tools & stacks
 
 ---
 
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -32,6 +24,12 @@ As a B.Tech CSE student, I love breaking down complex tech problems into simple 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-important?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ---
 
