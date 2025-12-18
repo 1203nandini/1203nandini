@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>NPTEL Cloud Computing</td>
-    <td>IIT</td>
+    <td>IIT Kharagpur </td>
     <td><a href="https://drive.google.com/file/d/1RlQjGQZf-iTDOdwR5wApcQv_-gzbij8U/view">View</a></td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@
     <td><a href="https://drive.google.com/file/d/1DhVEcAs1cajHo2uZrouslgKt-aY7o_BJ/view">View</a></td>
   </tr>
 </table>
----
+
 
 ## 🧠 Skill Strength 
 ---
@@ -80,9 +80,12 @@ Linux / OS             🟦🟦🟦🟦🟦            10%
 AI / Automation        🟦🟦🟦🟦🟦            10%
 ---
 
+
 **Explanation:**  
 This skill distribution is derived from my completed and ongoing certifications. The weight of each domain reflects the relative depth and frequency of certified learning, hands-on labs, and practical exposure rather than self-assessed proficiency. The chart highlights my primary focus areas while also showing supporting knowledge in networking, cloud security, Linux systems, and security automation.
 
+
+---
 
 ## 📫 Connect With Me
 
