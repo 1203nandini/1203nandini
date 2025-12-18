@@ -27,6 +27,40 @@
 
 
 ---
+## 🎓 Certifications
+<table>
+  <tr>
+    <th>Certification</th>
+    <th>Issuer</th>
+    <th>Proof</th>
+  </tr>
+  <tr>
+    <td>ISC2 Security Principles</td>
+    <td>ISC2</td>
+    <td><a href="https://drive.google.com/file/d/1ZYa1Iarz9TgAbnxzjK9TAH5wF_pSAQNW/view">View</a></td>
+  </tr>
+  <tr>
+    <td>Google Foundations of Cybersecurity</td>
+    <td>Google</td>
+    <td><a href="https://drive.google.com/file/d/132jaAYoFw8y8M8KTi-NuBQR1rhUr6sp_/view">View</a></td>
+  </tr>
+  <tr>
+    <td>IBM Cybersecurity Essentials</td>
+    <td>IBM</td>
+    <td><a href="https://drive.google.com/file/d/1YAceoD7YXY-OQ_xSFLa2OUQ4TVwEh1rm/view">View</a></td>
+  </tr>
+  <tr>
+    <td>NPTEL Cloud Computing</td>
+    <td>IIT</td>
+    <td><a href="https://drive.google.com/file/d/1RlQjGQZf-iTDOdwR5wApcQv_-gzbij8U/view">View</a></td>
+  </tr>
+  <tr>
+    <td>CompTIA Linux+</td>
+    <td>CompTIA</td>
+    <td><a href="https://drive.google.com/file/d/1DhVEcAs1cajHo2uZrouslgKt-aY7o_BJ/view">View</a></td>
+  </tr>
+</table>
+
 
 ## 📫 Connect With Me
 
