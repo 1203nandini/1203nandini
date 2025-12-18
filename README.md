@@ -22,8 +22,9 @@
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010-important?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![VirusTotal](https://www.virustotal.com/gui/home/upload)
-![ExifTool](https://exif.tools/)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![ExifTool](https://img.shields.io/badge/ExifTool-000000?style=for-the-badge&logo=linux&logoColor=white)
+
 
 ---
 
