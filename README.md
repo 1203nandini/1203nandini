@@ -60,16 +60,25 @@
     <td><a href="https://drive.google.com/file/d/1DhVEcAs1cajHo2uZrouslgKt-aY7o_BJ/view">View</a></td>
   </tr>
 </table>
+---
 
 ## 🧠 Skill Strength 
+---
 
 Application Security   🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 20%
+---
 SOC                    🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 20%
+---
 IAM                    🟦🟦🟦🟦🟦🟦🟦🟦     15%
+---
 Networking             🟦🟦🟦🟦🟦🟦🟦🟦     15%
+---
 Cloud Security & GRC   🟦🟦🟦🟦🟦            10%
+---
 Linux / OS             🟦🟦🟦🟦🟦            10%
+---
 AI / Automation        🟦🟦🟦🟦🟦            10%
+---
 
 **Explanation:**  
 This skill distribution is derived from my completed and ongoing certifications. The weight of each domain reflects the relative depth and frequency of certified learning, hands-on labs, and practical exposure rather than self-assessed proficiency. The chart highlights my primary focus areas while also showing supporting knowledge in networking, cloud security, Linux systems, and security automation.
