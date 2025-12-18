@@ -61,18 +61,18 @@
   </tr>
 </table>
 
-## 🧠 Skill Strength (Certificate-Weighted)
+## 🧠 Skill Strength 
 
-pie
-    title Skill Strength (Certificate-Weighted)
-    "Application Security" : 20
-    "Cloud Security & GRC" : 10
-    "IAM" : 15
-    "SOC" : 20
-    "Networking" : 15
-    "Linux / OS" : 10
-    "AI / Automation" : 10
+Application Security   🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 20%
+SOC                    🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 20%
+IAM                    🟦🟦🟦🟦🟦🟦🟦🟦     15%
+Networking             🟦🟦🟦🟦🟦🟦🟦🟦     15%
+Cloud Security & GRC   🟦🟦🟦🟦🟦            10%
+Linux / OS             🟦🟦🟦🟦🟦            10%
+AI / Automation        🟦🟦🟦🟦🟦            10%
 
+**Explanation:**  
+This skill distribution is derived from my completed and ongoing certifications. The weight of each domain reflects the relative depth and frequency of certified learning, hands-on labs, and practical exposure rather than self-assessed proficiency. The chart highlights my primary focus areas while also showing supporting knowledge in networking, cloud security, Linux systems, and security automation.
 
 
 ## 📫 Connect With Me
