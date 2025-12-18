@@ -61,6 +61,19 @@
   </tr>
 </table>
 
+## 🧠 Skill Strength (Certificate-Weighted)
+
+pie
+    title Skill Strength (Certificate-Weighted)
+    "Application Security" : 20
+    "Cloud Security & GRC" : 10
+    "IAM" : 15
+    "SOC" : 20
+    "Networking" : 15
+    "Linux / OS" : 10
+    "AI / Automation" : 10
+
+
 
 ## 📫 Connect With Me
 
