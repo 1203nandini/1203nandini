@@ -2,6 +2,7 @@
 👩‍💻 My name is Nandini Kumari
 🎓 Final-year B.Tech (CSE) Student | 💻 Cybersecurity & Full Stack Enthusiast  
 🔍 Exploring Threat Monitoring, Secure Coding, and Compliance Automation  
+  *Actively working on vulnerability detection, threat analysis, and secure system design with a strong interest in fintech security.*
 
 
 ---
@@ -21,21 +22,8 @@
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010-important?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
----
-
-## 📈 Github stats:
-
-![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=1203nandini&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1203nandini&layout=compact&theme=radical)
-
----
-
-## 🏆 Github trophies:
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=1203nandini&theme=radical&margin-w=5&no-frame=true)
+![VirusTotal](https://www.virustotal.com/gui/home/upload)
+![ExifTool](https://exif.tools/)
 
 ---
 
